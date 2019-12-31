@@ -1,0 +1,15 @@
+{
+  "sys_class_name": "sys_security_acl_role",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-12-31 15:39:34",
+  "sys_id": "694fedb9db020010343f58b3ca961956",
+  "sys_mod_count": 0,
+  "sys_name": "x_308211_multi_dep_multi_deploy.x_308211_multi_dep.multi_deploy_user",
+  "sys_package": "a60ea179db020010343f58b3ca961938",
+  "sys_policy": null,
+  "sys_scope": "a60ea179db020010343f58b3ca961938",
+  "sys_update_name": "sys_security_acl_role_694fedb9db020010343f58b3ca961956",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-12-31 15:39:34",
+  "transaction_id": null
+}
