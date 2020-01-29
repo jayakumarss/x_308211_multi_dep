@@ -1,0 +1,21 @@
+{
+  "caption": null,
+  "header": false,
+  "name": "ecc_agent_config",
+  "roles": null,
+  "sys_class_name": "sys_ui_section",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-01-29 14:55:44",
+  "sys_id": "da5b360b2fe64010862ea55df699b651",
+  "sys_mod_count": 0,
+  "sys_name": "ecc_agent_config",
+  "sys_package": "43fb9d7074e0330078509adcc48c87f6",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_ui_section_da5b360b2fe64010862ea55df699b651",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-01-29 14:55:44",
+  "title": true,
+  "view": "Default view",
+  "view_name": null
+}
